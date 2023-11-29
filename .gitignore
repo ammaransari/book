@@ -1,0 +1,6 @@
+# Ignore build directories
+/node_modules/
+
+# package
+
+package-lock.json
